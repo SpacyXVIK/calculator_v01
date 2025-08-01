@@ -1,6 +1,6 @@
 # calculator_v01
 
-![Screenshot](images/scr01.png = 200x500)
+![Screenshot](images/scr01.png|width=200,height=500)
 
 A new Flutter project.
 
