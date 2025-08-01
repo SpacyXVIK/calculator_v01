@@ -1,6 +1,6 @@
 # calculator_v01
 
-![Alt text](imgaes/scr01.png)
+![Screenshot](images/scr01.png)
 
 A new Flutter project.
 
