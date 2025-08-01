@@ -1,8 +1,6 @@
 # calculator_v01
 
-![Screenshot](images/scr01.png)
-
-<img scr="images/scr01.png" width = "300" height = "500">
+![Screenshot](images/scr01.png = 200x500)
 
 A new Flutter project.
 
